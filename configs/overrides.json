@@ -1,0 +1,11 @@
+{
+  "@deathbeds/jupyterlab-fonts:fonts": {
+    "styles": {
+      ":root": {
+        "--jp-code-font-family": "'Fira Code Regular', 'Source Code Pro', monospace",
+        "--jp-code-font-size": "19px"
+      }
+    }
+  }
+}
+
